@@ -36,3 +36,25 @@ import BrowserRouter from react-router-dom package
 
 create routes in App.jsx
 create multiple routes inside <Routes> using <Route> from react-router-dom
+
+## create header
+
+create a Header folder in components to used in Home page
+mount Header component inside the Home page
+create keyframe in index.css
+use keyframe as animation in Header.css
+
+## creating the menu section
+
+create ExploreMenu Folder in components folder
+create ExploreMenu.jsx and ExploreMenu.css inside the ExploreMenu folder
+import ExploreMenu.css inside the ExploreMenu.jsx
+mount ExploreMenu component inside Home page after the header
+create elements in ExploreMenu.jsx and styles in ExploreMenu.css
+
+## create functionalities for explore menu items
+
+go to Home page
+create a category state to highlight a menu item if clicked
+
+## create food display component
